@@ -11,9 +11,9 @@ Things you may want to cover:
 
 * How to run application?
 
-** bundle install
+   - bundle install
 
-** rails s
+   - rails s
 
-** redis-server
+   - redis-server
 
