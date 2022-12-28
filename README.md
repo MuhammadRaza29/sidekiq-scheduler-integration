@@ -10,7 +10,10 @@ Things you may want to cover:
 * Rails version (5.2.5)
 
 * How to run application?
+
 ** bundle install
+
 ** rails s
+
 ** redis-server
 
