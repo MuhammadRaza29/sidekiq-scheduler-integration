@@ -1,0 +1,5 @@
+{
+  "name": "sidekiq-scheduler-integration",
+  "private": true,
+  "dependencies": {}
+}

@@ -1,0 +1,21 @@
+default: &default
+  :max_retries: 5
+  :concurrency: 10
+  :timeout: 30
+
+production:
+  <<: *default
+
+development:
+  <<: *default
+
+test:
+  <<: *default
+
+:queues:
+  - critical
+  - high
+  - default
+  - low
+  - instrumentation
+
