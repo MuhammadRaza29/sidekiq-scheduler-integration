@@ -9,18 +9,8 @@ Things you may want to cover:
 
 * Rails version (5.2.5)
 
-* System dependencies
+* How to run application?
+** bundle install
+** rails s
+** redis-server
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
